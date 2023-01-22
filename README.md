@@ -15,6 +15,7 @@ Projeto sendo desenvolvido na trilha Ignite no NLW da Rocketseat.
 - Cors
 - Tailwind CSS
 - Postcss
+- CLSX
 - Vite
 
 ### 📞 Contato:
